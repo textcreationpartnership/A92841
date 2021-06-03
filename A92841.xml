@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sectary dissected, or, The anatomie of an Independent flie, still buzzing about city and country. In a sudden, but not rash censure, of a scurrilous petition, intended to be obtruded upon the Parliament by our sectaries.</title>
+         </titleStmt>
+         <extent>Approx. 85KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92841</idno><idno type="EEBO-CITATION">99861960</idno>
+  <idno type="VID">114106</idno>
+  <idno type="EEBO-PROQUEST">2240893780</idno>
+  
+            <idno type="STC">Wing S2355</idno>
+            <idno type="STC">Thomason E384_17</idno>
+            <idno type="STC">ESTC R201454</idno>
+            <idno type="PROQUEST">99861960</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861960e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sectary dissected, or, The anatomie of an Independent flie, still buzzing about city and country. In a sudden, but not rash censure, of a scurrilous petition, intended to be obtruded upon the Parliament by our sectaries.</title>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Ios. Kirton, and are to be sold at the signe of the white Horse in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Apr: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Congregationalism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114106:1"/>
+            <p>A SECTARY DISSECTED, OR, The Anatomie of an <hi>Independent Flie,</hi> still buzzing about City and Country.</p>
+            <p>In a sudden, but not rash censu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of a scurrilous Petition, intended to be obtruded upon the Parliament by our Sectaries.</p>
+            <q xml:lang="lat">
+               <l>Haec est natura multitudinis superstitione</l>
+               <l>Vecordis ut priùs vatibus quam ducibus pareat.</l>
+               <l>—Puniantur à te ne tu pro illis puniaris.</l>
+            </q>
+            <p>LONDON, Printed by <hi>T.W.</hi> for IOS: KIRTON, and are to be sold at the signe of the white Horse in <hi>Pauls</hi> Church-yard. 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114106:2"/>
+            <pb n="1" facs="tcp:114106:2"/>
+            <head>To the right Honourable and supreme Authority of this Nation, the Commons in Parlia<g ref="char:EOLhyphen"/>ment Assembled. The humble Petition of many thousands, earnestly desiring the glo<g ref="char:EOLhyphen"/>ry of God, the freedome of the Common-wealth and the peace of all men.</head>
+            <opener>Sheweth.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat no Government is more just in the Constitution, then that of Parliaments, having its foundation in the free choice of the People, and as the end of all govern<g ref="char:EOLhyphen"/>ment is the safety and freed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of the governed, even so the people of this Nation in all times have manife<g ref="char:EOLhyphen"/>sted most hearty affections unto Parliaments, as the most proper remedies of their grievances, yet such hath been the wicked pollicy of those who from time to time have indeavoured to bring this Nation in<g ref="char:EOLhyphen"/>to bondage, that they have an all times either by the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>suse or abuse of Par<g ref="char:EOLhyphen"/>liaments, deprived the people of their hopes; for testimony whereof, the late times foregoing this Parliament will sadly witnesse, when 'twas not only made a crime to mention a Parliament, but either the pretended Ne<g ref="char:EOLhyphen"/>gative voice (the most destructive to freedome) or a speedy dissolution blasted the fruit and benefit thereof, whilest the whole Land was over<g ref="char:EOLhyphen"/>spread with all kind of oppression and tyranny, extending both to soule and body, and that in so rooted and setled a way, that the complaint of the people in generall witness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that they would have given any thing in the world for one six moneths freedome of Parliament which hath been si<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> evi<g ref="char:EOLhyphen"/>denced in their instant and constant readinesse of assistance to this present Parliament, exceeding the Records of all former ages, and wherein God hath blessed them with their first desire<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, making this Parliament most free and absolute of any Parliament that ever was, and inabling it with
+<pb n="2" facs="tcp:114106:3"/> power sufficient to deliver the whole Nation from all kind of oppression and grievance, though of never so long continuance and to make it the most ab<g ref="char:EOLhyphen"/>solute and free nation in the world.</p>
+            <p>And it is most thankefully acknowledged, that you have in order to the freedome of the people, suppressed the High-Commission, Star-Chamber, and Councell Table, called home the banished, delivered such as were imprisoned for matters of conscience, and brought some Delinquents to deserved punishment; that you have suppressed the Bishops and popish Lords, abolished Episcopacy, and that kind of prelatick and persecuting government, that you have taken away Ship-money, and all new illegall Patents whereby the hearts of all the well-affected were inlarged, and fil<g ref="char:EOLhyphen"/>led with a confident hope, that they should have seen long ere this a com<g ref="char:EOLhyphen"/>pleat removall of all grievances, and the whole people delivered from all oppression over soule or body. But such is our misery, that after the ex<g ref="char:EOLhyphen"/>pence of so much precious time, blood, and treasure, and the ruine of so ma<g ref="char:EOLhyphen"/>ny thousands of honest Families, in recovering our liberty. Wee still find the Nation oppressed with grievances of the same destructive nature as for<g ref="char:EOLhyphen"/>merly though under other notions, and which are so much the more grie<g ref="char:EOLhyphen"/>vous unto us, because they are inflicted in the very time of this present Par<g ref="char:EOLhyphen"/>liament under God) the hope of the oppressed; For as then all the men and women in <hi>England,</hi> were made liable to the Summons, Attachments, Sentences, and imprisonments of the Lords of the Councell boord, so wee find by wofull experience, and the suffering of many particular persons, that the present Lords doe assume and exercise the same power, then which no<g ref="char:EOLhyphen"/>thing can be more repugnant and destructive to the Commons just liberty. As then the unjust power of the Starchamber was exercised in compelling men and women to answer to interrogatories tending to accuse themselves and others, so is the same now frequently practised upon divers persons, even your cordiall friends, that have been, and still are punished for re<g ref="char:EOLhyphen"/>fusing to answer questions against themselves, and neerest relations. As then the great oppression of the High-Commission, was most evident in molesting of godly peaceable people for non-conformity, or different opinion, or practice in religion, in judging all who were contrary-minded to them<g ref="char:EOLhyphen"/>selves, to bee Hereticks, Sectaries, Schismatiques, seditious, factious, enemies to the State, and the like; and under great penalties, forbidding all persons not licensed by them to preach or publish the Gospell; even so now at this day, the very same, if not greater molestations are set on foot, and
+<pb n="3" facs="tcp:114106:3"/> violently prosecuted by the instigation of a Clergy, no more infallible then the former, to the extreme discouragement &amp; affliction of many thousands of your faithfull adherents, who are not satisfied that controversies in religion can be trusted to the compulsive regulation of any, &amp; after the Bishops were suppressed, did hope never to have seen such a power assumed by any in this Nation any more. And although all new illegall Patents are by you abo<g ref="char:EOLhyphen"/>lished, yet the oppressive Monopoly of Merchant adventurers, and others do still remain, to the great abridgement of the liberty of the people, and to the extreame prejudice of all such industrious people, as doe depend on Clothing, or woollen manufacture, it being the staple commodity of this Kingdom and Nation, and to the great discouragement and disadvantage of all sorts of Trades-men, Seafaring-men, and hinderance of Shipping, and Navigation. Also the old tedious and chargeable way of deciding Con<g ref="char:EOLhyphen"/>troversies, or suits in law is continued to this day, to the extreme vexation, and utter undoing of multitudes of Families (a grievance as great and pal<g ref="char:EOLhyphen"/>pable as any in the world) that old and most unequall punishment of male<g ref="char:EOLhyphen"/>factors, is still continued, whereby mens lives and liberties are as liable to the lawes corporall paines as much inflicted for small, as for great offences, and that most, most unjustly upon the testimony of one Witnesse, contrary both to the law of God and common equity, a grievance very great) but lit<g ref="char:EOLhyphen"/>tle regarded; And also Tithes and other inforced maintenance are still continued, though there be no ground for either under the Gospel, and though the same have occasioned multitudes of suits, quarrells and debates both in former and latter times. In like manner multitudes of people, poore distres<g ref="char:EOLhyphen"/>sed prisoners for debt, lye still unregarded, in a most miserable and wofull condition throughout the Land, to the great reproach of this Nation; Like<g ref="char:EOLhyphen"/>wise Prison-keepers or Jaylors are as presumptuous as ever they were both in receiving and detaining of prisoners, illegally committed, as cruell and inhumane to all, especially to such as are well-affected, as oppressive and ex<g ref="char:EOLhyphen"/>torting in their Fees, and are attended with under Officers of such vile and unchristian demeanour, as is most abominable; Also thousands of men and women are permitted to live in beggery and wickednesse all their life long, and to breed their children to the same idle and vitious course of life, and no effectuall meanes used to reclaime either, or to reduce them to any vertue or industry.</p>
+            <p>And last as those who found themselves agrieved formerly at the bur<g ref="char:EOLhyphen"/>dens and oppressions of those times, that did not conforme to the Church
+<pb n="4" facs="tcp:114106:4"/> government then established, refused to pay Ship-mony, or yeild obedience to unjust Patents, were reviled and reproached with Nick-names of Pu<g ref="char:EOLhyphen"/>ritans, Hereticks, Schismaticks, Sectaries, or were termed factions or seditious, men of turbulent spirits, despisers of government, and disturbers of the publike peace; even so it is at this day, in all respects with those, that shew any sensibility of the fore-recited grievances, or move in any manner or measure, for remedy thereof, all the reproaches, evills, and mischiefs that can be devised, are thought too few, or too little to be layd upon them, as Round-heads, Sectaries, Independants, Hereticks, Schismaticks, facti<g ref="char:EOLhyphen"/>ous, seditious, Rebellious, disturbers of the publike peace: destroyers of all civill relations, and subordinations, yea, and beyond what was former<g ref="char:EOLhyphen"/>ly, non-conformity is now judged a sufficient cause to disable any person (though of known fidelity) from bearing any offices of trust in the Com<g ref="char:EOLhyphen"/>mon-wealth, whiles Neuters, malignant and disaffected, are admitted and countenanced; and though it be not now made a crime to mention a Par<g ref="char:EOLhyphen"/>liament, yet it is little lesse to mention the supreme power of this Honou<g ref="char:EOLhyphen"/>rable House, so that in all these respects this Nation remaines, in a very sad and disconsolate condition, and the more, because it is that with us af<g ref="char:EOLhyphen"/>ter so long a Session of so powerfull, and so free a Parliament, and hath been so made and maintained by the abundant love, and liberall effusion of the blood of the people, and therefore knowing no danger nor thraldome, like unto our being left in this so sad a condition by the Parliament, and observing that you are now drawing the great and weighty affaires of this Nation to some conclusion, and fearing that ere long you may be obstru<g ref="char:EOLhyphen"/>cted, by something equally evill to a Negative votes, and that you may be induced to lay by your strength, which under God hath hitherto made you powerfull to all good workes, whilest we have yet time to hope, and you power to helpe, and lest by our silence we might be guilty of that ruine and slavery, which without your speedy help, is like to fall upon us, your selves and the whole Nation, we have presumed to spread our cause thus plainly, and largely before you, and doe most earnestly intreat that you will stir up your affections to a zealous love, and tender regard of the people, who have chosen and trusted you, that you will seriously consider that the end of your trust was freedome, and deliverance from all kind of grievances and op<g ref="char:EOLhyphen"/>pressions.</p>
+            <p n="1">
+               <hi>1 And that therefore in the first place you will be exceeding care<g ref="char:EOLhyphen"/>full to preserve your just Authority from all prejudices of a Negative
+<pb n="5" facs="tcp:114106:4"/> voice in any person or persons whatsoever, which may disable you, from making that happy returne unto the people which they justly ex<g ref="char:EOLhyphen"/>pect, and that you will not be ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced to lay by your strength till you have satisfied your understandings in the undoubted security of your selves, and of those who have voluntarily, and faithfully adhered to you in all your extremities, and untill you have secured and setled the Common-wealth in setled peace, and true freedome, which is the end of the primitive institution of all government.</hi>
+            </p>
+            <p n="2">
+               <hi>2 Secondly, that you will take off all sentences, fines, and imprison<g ref="char:EOLhyphen"/>ments imposed on Commoners by any whomsoever, without due course of Law, or judgement of their equalls, and to give due reparati<g ref="char:EOLhyphen"/>ons to all those who have been so injuriously dealt withall, and for pre<g ref="char:EOLhyphen"/>venting the like for the time to come, that you will enact all such arbi<g ref="char:EOLhyphen"/>trary proceedings, to be Capitall crimes.</hi>
+            </p>
+            <p n="3">
+               <hi>3 Thirdly, that you permit no authority whatsoever to compell any person or persons, to answer to any questions against themselves or neerest relations, except in cases of private interest between party and party in a legall way, and to release such as suffer by imprisonment, or otherwise, for refusing to answer to such interrogatories.</hi>
+            </p>
+            <p n="4">
+               <hi>4 Fourthly, that all Statutes, Oathes, and Covenants may be repea<g ref="char:EOLhyphen"/>led so farre as they tend, or may be construed to the molestation and insnaring of religious peaceable and well affected people, for non-conformity or difference of opinion, or practice in religion.</hi>
+            </p>
+            <p n="5">
+               <hi>5 Fifthly, that no man for preaching or publishing his opinion in Religion, in a peaceable way, may be punished or persecuted as here<g ref="char:EOLhyphen"/>ticall, by Judges that are not infallible, but may be mistaken as well as other men in their judgements, lest upon pretence of suppressing er<g ref="char:EOLhyphen"/>rors, Sects, or Schismes, the most necessary truths, and sincere professi<g ref="char:EOLhyphen"/>ons thereof may be suppr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssed, as upon the like pretence it hath been in all ages.</hi>
+            </p>
+            <p n="6">
+               <hi>6 Sixthly that you will for the incouragement of industrious peo<g ref="char:EOLhyphen"/>ple, dissolve that oppressive company of Merchant-Adventurers, and the like, and prevent all such others by great penalties for ever.</hi>
+            </p>
+            <p n="7">
+               <hi>7 Seventhly, that you will settle a just, speedy, plain, and unbur<g ref="char:EOLhyphen"/>densom way for deciding of Controversies, and suits in Law, and re<g ref="char:EOLhyphen"/>duce all lawes, to the neerest agreement with Christianity, and publish them in the English tongue, and that all processe and proceedings
+<pb n="6" facs="tcp:114106:5"/> therein, may be true, and also in English, and in the most usuall Cha<g ref="char:EOLhyphen"/>racter of writing, without any abreviation, that each one who can read, may the better understand their owne affaires, and that the duties of all Judges, Officers, and practisers in the Law, and of all Magistrates and Officers in the Common-wealth, may be prescribed, their fees li<g ref="char:EOLhyphen"/>mited under strict penalties, and published in Print, to the knowledge and view of all men, by which just and equitable meanes, this Nation shall be for-ever freed of an oppression, more burdensome and trouble<g ref="char:EOLhyphen"/>some then all the oppressions hitherto by this Parliament removed.</hi>
+            </p>
+            <p n="8">
+               <hi>8 Eighthly, that the life of no person may be taken away under the testimony of two witnesses at least, of honest conversation, and that in an equitable way you will proportion punishment to offences, so that no mans life be taken away, his body punished, nor his estate forfeited, but upon such weighty and considerable causes, as justly deserve such punishment, and that all prisoners may have a speedy tryall, that they be neither starved, nor their Families ruined by long and lingring im<g ref="char:EOLhyphen"/>prisonment, and that imprisonment may be used only for safe custody untill time of tryall, and not as a punishment for offences.</hi>
+            </p>
+            <p n="9">
+               <hi>9 Ninthly, that tythes, and all other inforced maintenances, may be for ever abolished, and nothing in place thereof imposed, but that all Ministers may be payd only by those who voluntarily choose them, and contract with them for their labours.</hi>
+            </p>
+            <p n="10">
+               <hi>10 Tenthly, that you will take some speedy and effectuall course, to relieve all such prisoners for debt as are altogether unable to pay, that they may not perish in prison through the hard-heartednesse of their Creditors, and that all such who have any estates, may be inforced to make payment accordingly, and not shelter themselves in prison to de<g ref="char:EOLhyphen"/>fraud their Creditors.</hi>
+            </p>
+            <p n="11">
+               <hi>11 Eleventhly, that none may be Prison-keepers, but such as are of approved honesty, and that they be prohibited under great penal<g ref="char:EOLhyphen"/>ties, to receive or detaine any person or persons without lawfull war<g ref="char:EOLhyphen"/>rant, that their usage of Prisoners may be with gentlenesse and civility, their fees moderate and certaine, and that they may give security for the good behaviour of their under officers.</hi>
+            </p>
+            <p n="12">
+               <hi>12 Twelfthly, that you will provide some powerfull meanes to keepe men, women, and children from begging and wickednesse,
+<pb n="7" facs="tcp:114106:5"/> that this Nation may be no longer a shame to Christianity therein.</hi>
+            </p>
+            <p n="13">
+               <hi>13 Thirteenthly, that you will restraine and discountenance the malice, and impudency of impious persons in their reviling, and re<g ref="char:EOLhyphen"/>proaching the well-affected with the ignominious titles of Round-heads, factious, seditious, and the like, whereby your reall friends have been a longtime, and still are exceedingly wronged, discouraged, and made obnoxious to rude and prophane people, and that you will not exclude any of approved fidelity, from bearing offices of trust in the Common-wealth for Non-conformity, but rather Neuters, and such as manifest disaffection or opposition to common freedome, the ad<g ref="char:EOLhyphen"/>mission and continuation of such, being the chiefe cause of all our grie<g ref="char:EOLhyphen"/>vances. These Remedies, or what other shall seeme more effectuall in your grave wisdomes, we humbly pray may be speedily applied, and that in doing thereof you will be confident of the assistance of your Petitioners, and of all considerate well-minded people, to the utmost of their best abilities against all opposition whatsoever, looking upon our selves, as more concerned now at last to make a good end, then at the first to have made a good beginning, for what shall it profit us, or what remedy can we expect, if now after so great troubles and mise<g ref="char:EOLhyphen"/>ries this Nation should be left by this Parliament, in so great a thral<g ref="char:EOLhyphen"/>dome both of body, mind, and estate; Wee beseech you therefore, that withall your might, whilest you have time, freedome and power, so effectually to fulfill the true ends of Parliaments in delivering this Na<g ref="char:EOLhyphen"/>tion, from these, and all other grievances, that none may presume or dare to introduce the like for ever; And we trust the God of your good successe, will manifest the sincerity of our intentions herein, and that our humble desires are such, as tend not only to our owne particular, but to the generall good of the Common-wealth, and proper for this honourable house to grant, without which this Nation cannot be safe or happy; And that he will blesse you with true Christian fortitude, suitable to the trust and greatnesse of the worke you have undertaken, and make the memory of this Parliament blessed to all succeeding generations.</hi>
+            </p>
+            <closer>
+               <signed>Shall ever be the prayer of your humble Petitioners.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114106:6"/>
+            <pb n="9" facs="tcp:114106:6"/>
+            <head>A SECTARY Dissected or the Ana<g ref="char:EOLhyphen"/>tomy of an Independent Flie, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hrough your importunity, I have cast away some houres in perusall of this factious piece which I now returne you with an Antidote against its poyson. For how specious soever it may seeme to some, as whatever pretends removall of grievan<g ref="char:EOLhyphen"/>ces is catching, yet upon a second view, you may observe a continued vein of dangerous sophistrie wrapt up in Equivocall tearmes from the beginning to the end: so that to undeceive well meaning people it would require a more sad animadversion, then my present leasure or indeed abilities can af<g ref="char:EOLhyphen"/>ford you. Onely that I may not wholly frustrate your expectation. I am content to make my selfe a little merry with tossing of it in this sheet as men use to tosse whelps in a blanket,</hi> viz. <hi>for pastime</hi> tan<g ref="char:EOLhyphen"/>quam aliud agendo <hi>and as the French Man sayes</hi> par maniere d'acquit.</p>
+            <p>He that will hinder a Serpents entrance, must mainly take heed to the insinuations of the head, which once admitted steales in the whole body; Wherefore I will begin at the title and unravel the whole piece &amp; in so doing I shal dissect a Sectary of whom I doubt not to evince that when their t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngues are smoothest their minds are roughest, when they give fairest language, their in<g ref="char:EOLhyphen"/>tentions are fowlest, fondly designing with <hi>Mercury</hi> in the fa<g ref="char:EOLhyphen"/>ble to pipe out <hi>Argus</hi> his eyes and imitate those theeves, who ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with musicke.</p>
+            <p>But withdraw the Curtaine now: <hi>To the right Honourable and Supreame authority of this nation the Commons in Parliament assembled. The humble Petition,</hi> &amp;c. <hi>Sheweth That no Govern<g ref="char:EOLhyphen"/>ment is more just in the Constitution then that of Parliaments</hi> Joyn
+<pb n="10" facs="tcp:114106:7"/> these together and spell them, you that pretend so great <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<g ref="char:EOLhyphen"/>quaintance with the constitution of an English Parliament: did you never heare of <hi>we the Lords and Commo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> &amp;c. If you thinke the constitution of Parliament just, doe you thinke the conjunction of both houses unjust? Who are you that take upon you to legitimate one of these twins and bastardize the other? Are you ignorant how they have been borne and bred together. This was the old plot, <hi>Divide &amp; Impera.</hi> The court aime, to di<g ref="char:EOLhyphen"/>vide the two Houses, they knew well enough the fall of the one would be the evening of the others ruine, that the first could not be stifled, but the second would be stranged. Will you put a new cape upon an old cloake, and build upon a Malignant foundation? Sure some new light hath discovered unto these men, how to make a body subsist all of belly, for tryall whereof they are whetting apace to cut of our Parliament at the wast; This is the reason why the Ordi<g ref="char:EOLhyphen"/>nances are stiled Illegall in the <hi>Warning piece</hi> because the Lords have a hand therein: The Peers are the skreene which sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds betweene Prerogative and Liberty and keepes each from scort<g ref="char:EOLhyphen"/>ching other: That <hi>Commissura cervicis</hi> which marries the head to the body: The meane between the extreames. A Gallery be<g ref="char:EOLhyphen"/>tween Royalty and Property, which makes them keep their due distance: They are lenitives, which allay Monarchy &amp; of <hi>Mercury</hi> sublimate make it a wholesome medicine: In sum by their means we are famed &amp; envyed, for our happy <hi>mixed Governmēt.</hi>
+            </p>
+            <p>
+               <hi>And as the end of all Government is the safety and freedome of the Governed,</hi> &amp;c. What doe you quote the end of Government to the Parliament? for did they ever abridge just freedome? but what ever you talke of freedome you meane licentiousnesse as is evident as well by the whole tenour of this <hi>Ochlocraticall</hi> Petition, as by the <hi>report of that warning piece (but charged with murdering shot)</hi> which is but the <hi>construing Booke</hi> of this, as ap<g ref="char:EOLhyphen"/>peares by its complaint of the stop of this very Petition and o<g ref="char:EOLhyphen"/>ther seditious pamphlets in the last page. Now what great dif<g ref="char:EOLhyphen"/>ference is there between tyrannicall and licentious Govern<g ref="char:EOLhyphen"/>ment? Are not both Arbitrary? The one pleaseth not good men, the other displeaseth wise men: The one can easily doe e<g ref="char:EOLhyphen"/>vill,
+<pb n="11" facs="tcp:114106:7"/> the other can hardly doe good: in that the insolent have too much sway, in this the foolish, yet is there more hope in Tyranny, for be there one or two evill Princes like droughts of immoderate raines, and river overflowing their bankes, a good successour like a fit of seasonable weather may repaire the others breaches and render us our own with Interest: but in an Anarchy what can be expected, but a never dying succession of confusion? There is a live<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y analogy between the populacy and the Sea. Both uphold onl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> light things, let the heavy sinke, wit<g ref="char:EOLhyphen"/>nesse the horrible ingratitude to their bravest Captaines and best deserving Citizens of the Roman and Arhenian people. However the Sea may sometimes deceive the eye, with the smoothnesse of its glassy surface, yet we know it alwaies lyable to storms &amp; tempests &amp; that as inconstant as the Planet whose influence moves it, it hath suddenly wrapped it self up in furd billowe and devoured whom ever now it smiled upon: Thus the unbridled multitude when at the calmest want but their flat<g ref="char:EOLhyphen"/>tering Oratours to blow up their waves till they tumble and gather, then foame by mutuall attrition then roare and rage till the mast crackes under the sayles, the rudder deceives the hand of the Pilot, and anon the whole Ship of the Common-wealth split against the rockes of their inconsideratenesse. Every head of this Hydra is another <hi>Eolus</hi> who makes use of the popular windes <hi>viz.</hi> their affections, to reach the haven of his private aimes, and then shift for your selves. Of this tribe seemes to me the <hi>primum mobile</hi> of this Petition whom I vehemently sus<g ref="char:EOLhyphen"/>pect to be some <hi>Licinius</hi> or <hi>Sextius</hi> that gapes for the first fruits of a Plebeian Consulate. <hi>And to make it the most absolute and free nation of the world.</hi> I am here extreamely puzled how to tye up the end of Goevrnment and absolute liberty into one knot, nei<g ref="char:EOLhyphen"/>ther with all my tugging can I make the ones end reach the o<g ref="char:EOLhyphen"/>thers beginning for what need Government where every man according to their principles may be his own Governour, or do they mean their Governours should be like glasse eys in a blind<g ref="char:EOLhyphen"/>mans head for fashion not use? Tell us in plain tearms what you mean by <hi>most absolute and free:</hi> If you mean an unrestraint in do<g ref="char:EOLhyphen"/>ing good, tis every true, Patriots wish that piety and vertue may
+<pb n="12" facs="tcp:114106:8"/> be the onely wayes to honour in this nation and that hereafter good men may reap some other recompense besides the consci<g ref="char:EOLhyphen"/>ence of their owne well doings: but if your sence of absolute freedome stretch to an unlimited freewill to doe what ever shall seeme right in your eyes to act your owne dreames where and when you please without feare of controule, in contempt of authority, all which you daily practise; If this be the, Butt you shoot at, give me leave to invert your maxime, and tell you that the end of all Government is indeed the safety of the Governed, in curbing that licentious and absolute freedome here aimed at, and in restraining that <hi>Liberum arbitrium,</hi> in conceipt whereof all flesh is so prone to swell. But this is the common sin of Prince and People who caught with the same fallacy, wherewith the Divell foyled our first Parents and not content with the safe freedome of knowing and doing good, are still fancying an additionall perfection till they are justly left <hi>miserably free</hi> to bewayle the losse of their originall power, and fall from their primitive estate of freedome.</p>
+            <p>Next followes a Catalogue of their grievances; They begin with the house of Lords (though not vouchsafed that title viz. of a house) whose just convening of Delinquents before them, they compare to the former supercilious proceedings of the Councell board: but how justly we shall see, by examining the argument. Some Court Lords who moved but by the wire of their masters passions did amisse; therefore no more Lords are to be trusted: Divers particular Noblemen usurped an illegall authority over their inferiours, some out of arrogance, others onely by imitation; therefore the house of Peeres now acting as a court of Judicature according to the known lawes, is <hi>repugnant and destructive to the Commons just liberty,</hi> how does this comparrison hold.</p>
+            <p n="1">1. <hi>And therefore in the first place you will be exceeding carefull to preserve your just authority, from all prejudices of a negative voice in any person or persons whatsoever</hi> &amp;c. <hi>and that you will not be induced to lay by your strength, till you have satisfyed your understandings, in the undoubted security of your selves, and those who have voluntarily and faithfully adhered to you,</hi> &amp;c. Here you
+<pb n="13" facs="tcp:114106:8"/> tell the House of Commons in plaine termes, the Lords are but cy<g ref="char:EOLhyphen"/>phers, which added indeed to their figure encrease the summ, but of themselves make no number, whence learnt you this Parliamenta<g ref="char:EOLhyphen"/>ry Arithmetick? Since when came an Ordinance to bee of no more force then an Order? this is to tell <hi>the Supreme authority of this Nation,</hi> that they understand not themselves, nor their Privi<g ref="char:EOLhyphen"/>ledges, when they desire, to any thing, the Lords concurrence: You'l alter your tone shortly, and tell the House of Commons too, they shall be <hi>Supreme</hi> no longer then they please you. Doth not the same spirit of wild-fire, which here breathes upon the Nobility drive e<g ref="char:EOLhyphen"/>qually against Lords and Commons in the <hi>Warning-piece?</hi> Where <hi>their Councels are termed destructive, their Votes, votes for Norman bondage, their Ordinances Illegall, where the</hi> Whole body of the City is rayled against, and no other terme bestowed, then <hi>Proud Malignant, Illegall Major of</hi> London, <hi>and his like brethren the Aldermen, and a few illegall Common-Councell men.</hi> Who sees not by your insolent carriage, that your venome is against all di<g ref="char:EOLhyphen"/>stinction of Orders? while you may be permitted to spit your poy<g ref="char:EOLhyphen"/>son in secret, and to hatch young Cockatrices in your mysteri<g ref="char:EOLhyphen"/>ous seminaries, you put on a v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zard of zeale to the House, and are sure to hoyse up title enough; (enough to drowne them, if they set sayle therewith) but upon the least alarum against your party, they shall be no more the Supreame authority of this Nation, <hi>But the vile of the House and their Confederates, a company of Traytors to God and their Country, for thus are they already stiled in the Warning-piece;</hi> Nay, King, Parliament, Priest and People are there inveighed against. I wonder whence these are, who are comprehended under none of those. Shortly wee shall have some of these seditious Tribunes step up, and preferre <hi>Agra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ias leges:</hi> Is it not against the Common priviledges to suffer any enclosure? Why should any Patrician possesse more land then a Plebeian? hath not the one as much of <hi>Adams</hi> bloud in his veines as the other? The truth is, they feare the State of <hi>Licinius,</hi> condemned by his owne Law <hi>De quingentis jugeris possidendis,</hi> and therefore aime at nothing lesse then an equality, or extension of the Com<g ref="char:EOLhyphen"/>mons priviledges. How pregnant is histories of examples of such as alwayes pretended the case of the Beast, till themselves got into
+<pb n="14" facs="tcp:114106:9"/> the saddle, and then who rode harder then they? who ever tyra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nized more then these kind of people, who now weare the pleas of Liberty and Conscience threed bare, where they have enjoyed but an inch of Government? Let all Histories ancient and moderne speake. Let none of my Country-men therefore hee kindled by these Jack-strawes, who will in conclusion burne themselves and those who are set on fire by them. Learne to know, that in a well ordered Common-wealth, there is nothing more unequall then e<g ref="char:EOLhyphen"/>quality; let not the hands straine to submit the head to the st<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> trampling, lest the necke of the body be thereby broken. You know what became of the divisions betweene <hi>Abimele<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> and the men of <hi>Sichem;</hi> if you opinionatly persecute the house of <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>,</hi> a fire may issue thence, when you little dreame thereof and con<g ref="char:EOLhyphen"/>sume you. Pray what got <hi>Athens</hi> by the Fines, impriso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, banishments of their Nobility? Even as much as <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by their Agrarian lawes and other encroachments of the Tribun<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon the Patrician priviledges, which fits of convulsion extinguisht that flourishing Common-wealth. During the War between the Flo<g ref="char:EOLhyphen"/>rentines and <hi>Millan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si, an dom.</hi> 1427. The popular faction at <hi>Flo<g ref="char:EOLhyphen"/>rence</hi> having abated the insolence of the Grandees, by subjecting their moveables, and other goods to proportionable taxes, beg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n now to swell, and not content with presentredresse of grievances, fell to ripping up old sores, and demanded satisfaction of the No<g ref="char:EOLhyphen"/>bility for all unequall levies past: Indignation whereas had occa<g ref="char:EOLhyphen"/>sioned (saith my Author) the conjunction of the Nobility and Gentry with the common Enemy, (as upon the l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e occasion they had formerly called in the Duke of <hi>Athens</hi>) had not <hi>Iohn de M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ci</hi> timeously stopt the flux of these peccant humours, remonstrating the folly of fretting at old wounds, when they ought rather to pre<g ref="char:EOLhyphen"/>vent new; and if their usage had formerly been unjust they ought to thanke God, who had shewed the way to make it just, and con<g ref="char:EOLhyphen"/>tent themselves with a middle-s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed victory; For he frequently <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-does who over-does. 'Twas an ancient <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reanu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Non in om<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>licta, nec in singul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Authores inquir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re:</hi> Who ever desires a Map of our English chao<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, let him turne to the Florentine History, where he shall find the mutuall obstinate persecutions of the fa<g ref="char:EOLhyphen"/>ctions, ever barking at the pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt government, to have strangled
+<pb n="15" facs="tcp:114106:9"/> that Common-wealth, and introduced a Tyranny, under which they yet groane; <hi>His ego grati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctu alia esse scio: sed <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vera pro gratis loqui etsi meum ingenium <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moveret, necessitas cogit, Vel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> eq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idem vobis placere, Quirites, sed multo m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo vos salvos esse,</hi> &amp;c.</p>
+            <p>This devolving so much upon the people causeth a double evill. 1. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nors are helped upon such as having never tasted therof, relish them the lesse, and have lesse occasion (going without them) to com<g ref="char:EOLhyphen"/>plain. 2 They are taken away from such, as having been accu<g ref="char:EOLhyphen"/>stomed thereto, will never rest till they be restored; as the Sea af<g ref="char:EOLhyphen"/>ter a storme never leaves tumbling and tossing till his waves are le<g ref="char:EOLhyphen"/>velled. Thus the injury on the one part, outweighs the benefit on the other, and for few friends, you make many enemies, who will alwayes be more ready to hurt, then those to help you; Since men are naturally more prone to revenge of injuries, then recompensa<g ref="char:EOLhyphen"/>tion of benefits, this seeming to import dammage and losse, the other profit and pleasure.</p>
+            <p>In the other branch of this Article, you desire the Parliament not to disband, before they have well provided for their owne safety, and their adherents. All their Adherents, that I know, would be glad to see Armies disbanded, places disgarrison'd, and the poore wasted Countries in some measure eased; as soon as the Parlia<g ref="char:EOLhyphen"/>ment shall judge it safe, whose very being induced thereunto is ar<g ref="char:EOLhyphen"/>gument enough to their modest friends of its safety. But who in<g ref="char:EOLhyphen"/>duces them to devest their strength? any thing save reason? what sawcinesse is this to charge Supreme Authority, with so supreme weaknesse, as that they are apt to be induced to things against the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r own understandings? They know their greatest st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ength lies in the peoples hearts, and out of meere returnes of love have intertained a tender care of then disburdning, as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar as wisedom will dictate. But who told you they were voting downe the Army? Nay you knew the contrary, by their late Votes for a new establishment under Sir <hi>Thomas Fairfax,</hi> unlesse you interpr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the voting of some Troopes for <hi>Ireland</hi> a disbanding; however it bee, the Votes were al<g ref="char:EOLhyphen"/>ready passed long before this bast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd Petition was borne, and which render<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your impudence ine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cusable, in your magisterial de<g ref="char:EOLhyphen"/>mands of undoing what you knew was already done. But you love to walk in cloud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and may you at length embrace a cloud in stead
+<pb n="16" facs="tcp:114106:10"/> of your ambition'd <hi>J<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o,</hi> shall be my prayer: In plaint English you are loth to see this Army by sub divisions enfeebled upon whose strength you rely for support wherein you thinke are many props of your extravagancy: you fancie to your selves wings o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their feathers, and therefore unwillingly see any qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll dropt; fondlings, you dreame! The bulk of the Army are otherwise pos<g ref="char:EOLhyphen"/>sessed; The sounder part begin to smell your rottennesse; I know not by what misfortune, you have not so close girt your <hi>Lambskins</hi> of late, but that your <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x lenings</hi> have appeared.</p>
+            <p n="2">2 <hi>That you will take off all Sentences, Fines and Jmpriso<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> imposed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Commons by any whomsoever, without due course of Law or judgement of their equalls and to give due reparations to all these who have been so injuriously dealt withall, and for preventing the li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for time to come that you will enact all such arbitrary proceedings to be capitall crimes.</hi> Here is a fine spun not to catch the simple: but what greater enemy to truth then likelihood? If you understand by <hi>due,</hi> that ordinary <hi>course of law</hi> what Malignant could speake higher language, or find a fitter engine wherewith to better down what ever the Parliament hath been rearing up these five yeares? The safety of the governed, the end of government (to speake in your own dialect) hath occasioned the doing of many things above the ordinary course of law: strange diseases, unknown to <hi>Gall<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Hippocrates,</hi> have forced our State Physitians to new wayes of cure. If shame forbids you now the owning this construction, all the sense I can squeeze out of this expression, is a charge upon the Parliament for their commitment of some of your m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rabble, for which you you would be loth to stand to the due course of law. Dare you <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lke of the due course of Law, which you la<g ref="char:EOLhyphen"/>bour to overthrow in dive<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Articles of this very Petition? The complaint were just<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, than the Lawes are no more duly executed upon such trouble<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of our Israel. So when you demand repar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions, you must unfold the riddle, for verily to us poore Ig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts you speake in parables. I thinke you intend no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Delinq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> com<g ref="char:EOLhyphen"/>positions be restored, although its possible to get some of their <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nds to your Petition you may have gratified them in this Arti<g ref="char:EOLhyphen"/>cle. For whom else hath the Parliament sined, sentenced, or impri<g ref="char:EOLhyphen"/>son<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d? O, its true, I had f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgot <hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lilb<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rne,</hi> whose suf<g ref="char:EOLhyphen"/>ferings
+<pb n="17" facs="tcp:114106:10"/> merit at least Letters of recommendation, to his name-sake, <hi>John</hi> of <hi>Leyden</hi> K. of <hi>Munster,</hi> for the office of Grand Master of his Ordnance.</p>
+            <p n="3">3 <hi>That you permit no authority,</hi> &amp;c.) Againe, so fierce for lega<g ref="char:EOLhyphen"/>lity? long may you be in this good humour! But I am afraid you will shake hands with it at the next turning. In the meane time let's examine whence cometh this zeal against an Oath <hi>ex Offi<g ref="char:EOLhyphen"/>cio;</hi> is it not because they abhorre the very name of <hi>duty?</hi> will you allow never a graine more to the Parliament then Star<g ref="char:EOLhyphen"/>chamber? Must what this assumes for the present be unwarrant<g ref="char:EOLhyphen"/>able because the other used it? sundry emergencies daily happen which escape the foresight of the most provident Lawgivers, who therefore have in every State, betrusted some with a Pre<g ref="char:EOLhyphen"/>rogative, whereby the supreame Magistracy is impowred to provide in cases extra legall for the Common wealths indemp<g ref="char:EOLhyphen"/>nity. The rule indeed usually ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds <hi>Nemo tenetur seipsum pro<g ref="char:EOLhyphen"/>dere,</hi> but if the State judge it expedient for the di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>covery of a<g ref="char:EOLhyphen"/>ny Jesuit, or Jesuiticall—shall not the <hi>Publick</hi> obtain that fa<g ref="char:EOLhyphen"/>vour which the Law allowes in case of <hi>Private interest?</hi> A cleare conscience fears not the touchstone, and whoever <hi>inno<g ref="char:EOLhyphen"/>cent</hi> starts from the triall is therein <hi>nocent</hi> because contemptu<g ref="char:EOLhyphen"/>ous. Onely such owles as you, dread discovery and fly the day, therefore, whatever you may boast of your <hi>new light<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> they are at best but <hi>candle lights.</hi>
+            </p>
+            <p n="4">4 <hi>That all stat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes, Oathes and Covenants may be repealed</hi> &amp;c. What an ambush of <hi>Ban<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iti</hi> is he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e broken out against the poor Statutes? Did not I tell you wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would become of your pleas for legality? My Gentlemen are already skipt from the Law, to a false Gospel: but no wonder they snarle here at mens Sta<g ref="char:EOLhyphen"/>tutes when they bark in the next at Gods Ordinances What a bitter pill is this same Covenant? These Ostriches who so easily swallow iron (they swoon at the noise of disbandig) cannot di<g ref="char:EOLhyphen"/>gest the Covenant: oh this lies ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at their heart, for why? it is a <hi>Shibboleth</hi> whereby the mutinous <hi>Ephra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ites</hi> are discove<g ref="char:EOLhyphen"/>red; I commend <hi>Vulcan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ingenuity out of whose forge came the <hi>warning piece,</hi> who although he halt villanously in other matters yet tells you like an honest rogue the <hi>Covenant is Anti<g ref="char:EOLhyphen"/>christian</hi>
+               <pb n="18" facs="tcp:114106:11"/> because it distinguishes <hi>the vile of the house from the faithfull of the house</hi> what unparalleld malapertnesse is this to demand the abrogation of our lawes, the nullity of our solemne vowes as far forth as they may be <hi>constr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> to their molestation? By whom shall they be construed? by you? we are like then to have pretty endlesse worke: for you know you are not bound to believe to morrow, what you make us believe you doe to day, so that should we modell our lawes to your present liking, be<g ref="char:EOLhyphen"/>fore we had done you may have sprung a new opinion, or ano<g ref="char:EOLhyphen"/>ther <hi>tender-hooft Sect</hi> may arise and taske us anew; May not Priests turne Independents and with equall reason Petition a<g ref="char:EOLhyphen"/>gainst the Oaths of Supremacy and Allegiance? But you are <hi>peaceable and well affected:</hi> I wish you may prove so, if you have helped us hitherto we see in this Petition by what hopes you were led, and that in the work you were wel affected only to your selves. For suppose a complyance with all your fanatick de<g ref="char:EOLhyphen"/>sires, which yet is impossible, you draw so unevenly among your selves, would not your peaceable maximes suddenly set the King<g ref="char:EOLhyphen"/>dome on fire with war, spirituall war, debates, heart-burnings, envies, strifes, contention? Read the histories of your fore<g ref="char:EOLhyphen"/>fathers, and tremble at their examples; Who pleaded more peice then the German Anabaptists, till they got the reines of government into their hands, and then what divels incarnate ever acted such villanies? O shun their foot-steps who so desires to tread in the paths of life! Those Dutch Sectaries fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, to make way for their innovations, that no regard of Conscience or fidelity sworne to the Magistrate might stop their proceed<g ref="char:EOLhyphen"/>ings broached this doctrine that all Oaths in the time of the new Testament were unlawfull, and that therefore taken, or to be taken, they were of no validity. Ours only slice them as yet, and desire their qualification: when they have obtained this, they will have something else ready to obtrude upon us; for he that thinks they will ever be content is to learn the nature of a Sectary: In the tayle of this Article lies this venemous clause, <hi>That none may be disturbed for difference of opinion or practice in Religion:</hi> A worthy grievance! that every Enthusiast, should not have his allowed Teraphim! nay, they are not content to be<g ref="char:EOLhyphen"/>leive
+<pb n="18" facs="tcp:114106:11"/> as they list, nor to practise what they list, unlesse they have Letters of Mart to take up Proselytes. All they can catch must be lawfull prize, and therefore they aske.</p>
+            <p n="5">5. <hi>That no man for preaching or publishing his opinion in Religion in a peaceable way may be punished or persecuted as hereticall by Judges that are not infallible, but may be mistaken as well as other men in their judgements, least upon pretence of suppressing errours Sects or Schismes the most necessary truths and sincere professours therof may be suppressed, as upon the like pretence it hath been in all ages.</hi> Mark how the Serpe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t creeps, and every where leaves a filthy slime behind him; Hitherto they never pretended more then a tolleration now they will have a patent under the broad Seale for publike vent of their false wayes. While they only used the buckler and weapons of defence, we pit<g ref="char:EOLhyphen"/>tyed and connived at their weakenes, supposing that nothing but a certaine habit of private assemblings forced upon conscientious people by Prelaticall tyranny, without any other obstinacy, had con<g ref="char:EOLhyphen"/>tinnued their withdrawings from publike worship: But now that they furbish the sword and whet their teeth like sharp arrowes, blow the trumpet with that man of Belial, <hi>Every man to his tents O Jsrael!</hi> It is high time to rub our eies, and watch their progresse. Had they contained themselves within their first desires, and stuck to their <hi>Penates,</hi> they might still have pleaded the <hi>ease of weake breth<g ref="char:EOLhyphen"/>ren:</hi> But that al markets should be open to their putid errours plain<g ref="char:EOLhyphen"/>ly shews they never intended them other then for sale and I appeale to all understanding Christians, and such as cherish the practise of piety and power of godlines, whether this be not a straine beyond the tedder of a tender conscience! Did not the Divell by these same instruments o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>struct the growing reformation in <hi>Germany?</hi> They complaine the Parliament and Assembly have done so little: Thanks to these <hi>Remoras?</hi> They should doe lesse if they could hinder them. These vermine that ferr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t into by corners grawing out the bow<g ref="char:EOLhyphen"/>ells of religion, and eating out the power thereof, first biting at Ministry, then at Magistracy these <hi>dungwagons</hi> make us stink in the nostrills of all neighbouring Nations. But for sooth their Judges are not infallible; Very true. If you aske seeing we may possibly erre, how can we be assured we doe not? I aske you againe seei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g your eye sight may deceive you, how can you be sure you see the
+<pb n="20" facs="tcp:114106:12"/> Sunne when you doe see it. Perhaps you may be in a dreame, and perhaps you and all the men in the World have been so, when they thought they were awake, and then only a wake, when they thought they dreamt. Because we challenge not an impossibility of erring, can we not be sure that all ought to be subject to the higher powers, (which you labour to kicke off) and that all sowers of en<g ref="char:EOLhyphen"/>vy and strife, and contentious persons are in the wrong not to say what Saint <hi>Paul</hi> sayes that such shall not enter into the Kingdome of God? Because the Bishops imposed the <hi>wick<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s</hi> of P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Sectary, cannot we be sure they are <hi>your true <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s,</hi> and pitty it is they should be <hi>Christian names?</hi> Doe you thinke there ever was any such thing as Schisme or faction? if so, gave the Magistrate leave to find it out and punish it or else set up your standard and own it. What pitty tis these men are not allowed to ride on a while. What a fine Egyptian miscellany of religions would be intro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ced▪ We should shortly have Mahomet <hi>the second</hi> appeare with new revelations freshly coined in the mint of some Ulcerous brai<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s the itch of whose wit dayly breakes out into some new botch or boyle, <hi>for which they deserve not little a clawing.</hi> Sure they have retrived St. <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas</hi> his Gospell out of the Vatican, and would expound <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in their Synagogues. <hi>Profecto si essent in republica magistra<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> futurum f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sse Ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae, (vel Londinis) nisi publicum consi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>: <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>c in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ille curias concionesque cum alia in esquiliit, alia in Av<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> fi<g ref="char:EOLhyphen"/>ant consilia dispersa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; dissipatam esse rempublicam?</hi> Under the no<g ref="char:EOLhyphen"/>tion of a new mistery crept in the Bachanalia to <hi>Rome,</hi> a Seminary of the most horrid impieties, that ever were heard of yet veiled over with such a faire shew of pure devotion, that it was spread all over <hi>Jtaly</hi> before the Senate tooke notice thereof, and then hardly with the death of many thousands, and banishment of more, could stifle this Grecian Independency.</p>
+            <p>Doe not many moderne Libertines tread the same path, rending man and wife, Father and Son a sunder, breaking the nearest ban<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and captivating simple soules into their new misteries which hard<g ref="char:EOLhyphen"/>ly three or foure of their whole tribe understand, where for ought we know, they are innitiated into as arrant deeds of darkenesse, as those of the <hi>Bacchanalia?</hi> I am sure these and the German An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>baptistick conventicles run but too paralell. Neither will thoughts
+<pb n="22" facs="tcp:114106:12"/> of charity h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re satisfie a Master of a family, who is knowingly to rende account of all those committed to his care. <hi>But thus most necessary truths may be suppressed.</hi> Thus those errours which are necessary indeed for your building, and without the rooting whereof, your <hi>Babell</hi> will tot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, shall be suppressed, together with their insinuating Brokers, <hi>as upon the like</hi> cause <hi>it hath been in all ages.</hi> I will brand them in the fore<g ref="char:EOLhyphen"/>head and leave them: They are Intruders into other mens labours, reaping where they have not sowne, worthlesse <hi>dron<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> who can by no <hi>embl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> be livelier represented, then of <hi>Ants,</hi> that rob others barnes to encrease their proper store, stealers of corne for their owne provisions, industrious for themselves to all others unprofitable: The true Pastor is not so, but like a <hi>Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> innoxious, in offensive, without any's preju<g ref="char:EOLhyphen"/>dice, gathers his hony for others, eating as pleasant as profitable.</p>
+            <p>Yet againe <hi>They are not satisfied that Controversies in Religion can be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>usted to the c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pulsive regulation of any.</hi> No, that's agreed upon, you a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pretty well resolved against satisfaction. Must nothing then be done in a St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, til every mutineer be pleased to be satisfied, no law passe till every Cobler be first made to comprehend the reasons which urg'd the enacting? what if his braines be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo swimming, and will no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ad<g ref="char:EOLhyphen"/>mit of impression? What if the Tinker tell us the Tavern is his <hi>mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing house,</hi> where he first drawes the barrell dry, then sets himselfe a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oach, and inspired by the spirit of win<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, spi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s out his froth (miscalled prea<g ref="char:EOLhyphen"/>ching) in the same vessell? Truly sirs, you must come off your stilts, and have this principle beat into you; That not the Magistrate ought to render you reason, much lesse Gospell, for all his Ordinance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but unlesse you can dismount them with demonstrative arguments, not simple cavillations, out of Gods word, Gods word commands you to submit.</p>
+            <p>
+               <hi>Note.</hi> Two sorts of people offend in point of Religion, some have a depraved notion of God, and his worship, but confined to themselves; and these deserve a teacher, rather then a tortures, and to be deale with<g ref="char:EOLhyphen"/>all in the spirit of meeknesse. Others are not only <hi>Er<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> but <hi>Turbones, stirr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs as well as errors,</hi> and have sucke the same maline f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om their errors, as is said to be concomita<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the plague, <hi>viz.</hi> an it<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of spreading their Leprosie. Now if it be fellony to intrude into compa<g ref="char:EOLhyphen"/>ny with a Plague sort, what punishment deserve these s<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s? Since the Jewes for their malicious artifier in sowing the P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tilence,
+<pb n="22" facs="tcp:114106:13"/> were justly banished many Countries, what shall be done to these, who by their Emissaries scatter their poyson in all places? Either con<g ref="char:EOLhyphen"/>fine them to the Pest-house, or let them not walke without a white wand some distinguishing marke whereby they may be knowne and shunned. 'Twas a a Heathens speech, <hi>Sen. de Ben l.</hi> 3. <hi>cap.</hi> 6. <hi>Vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> religi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>num aliubi at{que} aliubi diversa p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>na est, sed ubi{que} aliqua;</hi> Better one perish then unity. Can an injury be done to God, and not us? Therefore Clemency is here cruelty: for certainly if the lawes are binding only to morall duties, and loose to Christian, the Magistr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te to us beares the Sword in vaine.</p>
+            <p n="6">6 The Remonstrative part winds up the sixth grievance in these termes: <hi>The oppressive Monopoly of Merchant-Adventurers, and o<g ref="char:EOLhyphen"/>thers doe still remaine, to the great abridgement of the Liberty of the People, and to the extreme prejudice of all such industrious people, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe depend on Clothing, or Woollen manufacture, it being the staple Co<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty of this Kingdome, and to the great discouragement of all Trad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Seaf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring-men, and hindrance of Shipping and Navigation.</hi> Grant all this to be true, yet you must give us leave to doubt of your ho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st meaning; for he that useth by-wayes, is justly mistrusted when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee keepes the roade. The ingenuous are to be construed by their natures, the crafty, by their ends: The plaine hearted seldome suppresse their inclinations; The cunning man lookes one way, rowes another, and while he holds up artificiall hands, with his naturall under his cloak, cuts your purse. Here 'tis call'd a Monopoly, in the sixth Article a Company, so that when they cry downe this Company <hi>and others,</hi> till they explaine, we may feare they strike obliquely at all the <hi>London</hi> Companies, at least of Merchants. And indeed this is but consonant to their doctrine, which urges an universall Community, and esteemes every enclosure a Monopoly. But that, part hereof is false, and all the rest mistimed in the motion; The Westerne Gentlemen will b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are me witnesse, who in the House have no small sway, and will for their own Interest have a speciall eye to Clothing, the chiefe riches of their Coun<g ref="char:EOLhyphen"/>trey, the West being the staple of this staple commodity.</p>
+            <p n="7">7 In the Preface I find these motives to your seventh Article. <hi>Also the old, tedious, and chargeable way of deciding sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in Law is continued to the undoing of multitudes of Families.</hi> The more undone, the better for you, for the poorest are a p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est to embrace your doctrine of Com<g ref="char:EOLhyphen"/>munity
+<pb n="23" facs="tcp:114106:13"/> besides, whence comes this care of us, since all out of your Church are Heathens in your account? No wonder, if your <hi>new wor<g ref="char:EOLhyphen"/>ships</hi> love not to walke in any <hi>old way:</hi> But wiser men then you, who ever you are, did not use in old wayes to stumble at every stone, nor to cast off old customes, till old customes were ready to cast off them, and if any law grew burdensome, they let it fall through disuse, and antiquated rather then innovated; Physitians will tell you it is unsafe to disturbe an evill setled humour, and when an infirmity hath kept possession twenty, thirty, forty yeares, 'twere madnesse to try experi<g ref="char:EOLhyphen"/>ments upon an aged body. Many Mountebanks, indeed by boasting their new receipts, as you doe, often find some impatient foole or other, who had rather die quickly, then live in a little paine, and weighes not the hazard, in respect of the <hi>dispatch.</hi> But we poore mortalls are content to thinke the old way the safest, till your new lights discover a better, for a Tinker will tell you, 'tis easier to find holes then mend them. Againe, you shoot beyond the Moone, when you stile this the <hi>most palpable and greatest grievance in the world;</hi> For who so knowes any thing in Forraigne affaires, knowes there is never a Kingdome in the Christian world, where the course of law is more regular lesse tedi<g ref="char:EOLhyphen"/>ous, and consequently lesse chargeable, although indeed, their Fees be lesser, then in <hi>England;</hi> Nay therefore is the Forraigne way more te<g ref="char:EOLhyphen"/>dious, because lesse chargeable, therefore in demanding a more <hi>speedy, plaine, unburdensome way of deciding controversies, and the publication of our Lawes in English,</hi> you doe like the sonnes of <hi>Zebedee,</hi> and aske you know not what. Sure I am in <hi>France</hi> and other parts, where the Fees are moderate, and the Lawes in their owne language, there are a hundred Families to our one, utterly ruined by suites which continue from Father to Sonne, even to the third and fourth generation▪ for where it costs but twelve pence a time, every one will run to the Phy<g ref="char:EOLhyphen"/>sitian, and where every worm eaten canker'd fellow can have his Ad<g ref="char:EOLhyphen"/>vocate for his halfe crowne, the least Punctilio must bee pleaded, and the smallest difference turne to a Processe. There is another reason of their mischiefe: for where the Law is not lockt up, as it were in a strange character, as with us, but the way easie, and the doore open for all commers; Every Peazants sonne leaps to the Bar, till Lawyers swarme like Locusts, as in <hi>France,</hi> whereas their principall study most be in each Village to sow and foment divisions, for feare of starving?
+<pb n="24" facs="tcp:114106:14"/> Do not we frequently see fellows otherwise quarrelsom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh, &amp; mutually incensed commit their differences to the arbitrement of neighbours, meerly for feare of charges? And if yet some pee<g ref="char:EOLhyphen"/>vish people will never be well till they have paid for it, how out<g ref="char:EOLhyphen"/>ragious would they be, when they might disquiet others with lesse detriment to themselves? for my part I cannot but esteeme it wisely done of our State to fix some difficulties upon the study of the <hi>Common Law,</hi> which were they all removed we should soon have all <hi>England</hi> full of brawles because full of leaders even as now the facility of going to Law tempts many neare to <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster</hi> to their utter undoing who had they lived in <hi>Wales</hi> or <hi>Lancashire</hi> would never have dreamt thereof. Well, but is this all? are they content to accuse our Lawes of injustice: no they further require <hi>that they be reduced to the neerest agreement with christianity &amp; that all processe and proceedings therin may be true that so this nation may be freed of an oppression more burdensome and trou<g ref="char:EOLhyphen"/>blesome then all the oppressions hitherto by this Parliament remoued.</hi>
+            </p>
+            <p>How furiously these <hi>Jehu's</hi> drive boasting their zeal for the Lord pray God it end not as <hi>Iehu's</hi> in the accomplishment of their own ends. In the interim we stand deeply charged with Paganisme, what no lesse then unchristian? I confesse they are ancient yet can hardly believe K <hi>Alfred</hi> fetcht his Lawes from <hi>China</hi> or that our forefathers have since borrowed any of the Turkish Alcoran or Jewish <hi>Talmud</hi> although all these have many excellent constitu<g ref="char:EOLhyphen"/>tions, As impertinent, is the other charge of untruth upon the proceedings which is an arrant falshood. But give the childe his bable before he cry! Suppose now the Law's in English without any abbreviation, all fees limited and in print, will it therefore follow this nation shall be for ever free? you Platonicks may please your selves with your fine Idea's, but verily you seeme to underst and the world as ittle as you understand your selves, and those that know you say that's little enough, The regular usuall fee of a Physician's but tenne shillings yet whether to engrosse the Doctours care or out of ostentation, I know not by what meanes it's come about that between the Physician and Apothecary many are pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged of su<g ref="char:EOLhyphen"/>perfluities and are hardly left so much gold in their purses, as there
+<pb n="25" facs="tcp:114106:14"/> is about their pilles, whose fault is this now? must each mans fault be laid upon the States shoulders? so were the Councellours high<g ref="char:EOLhyphen"/>est legall fee, a piece, might not one all whose hopes lay at stake in one cause underhand quicken his diligence with ten, The like a second and a third in a like necessity, til the wheeles run in the old crack? Nay may he not with more equity demand of me ten pounds, in some cause then one in another? should the fees he prescribed according to the p eaders pains, or the causes impor<g ref="char:EOLhyphen"/>tance? for may not a businesse of mighty concernment be often dis<g ref="char:EOLhyphen"/>patcht with lesse trouble then a petty but knotty case can be opened? as you may sooner read two chapters in a fair legible character then one in a small impression. Again how can a Lawyers pains be esti<g ref="char:EOLhyphen"/>mated? either in the well timing a motion, (for every businesse hath its golden houre) or in the manner, or in the choice of the matter, or in the expedition, a hundred wayes, order it how you can, an active faithfull mans pains are invaluable, and in many ca<g ref="char:EOLhyphen"/>ses cannot be weighed in other ballances then those of discretion To conclude, you may as easily make a coat for the Moon as limit Lawyers sees. Something perhaps might be amended, and will in time convenient, but to make such a mountain of this mole hill, as in comparison thereof to make nothing of the Starchamber, High Commission, Court of Wards, and all other Court tyranny makes manifest to all who eye your practises, that there lies a shake under this green grasse; once I will be your <hi>Edipus</hi> and unfold this riddle. I find in my story of <hi>Muntzer</hi> that Arch-Anabaptist, among other his tenents <hi>That Iustice and Iudgement under the new Testament ought to be framed and administred only out of the word of God,</hi> by which do<g ref="char:EOLhyphen"/>ctrine be made the poore People of <hi>Thuringia</hi> believe their Laws and Governments were unlawfull, and challenging to himselfe by degrees the cognizance of all both Ecclesiasticall and Civill mat<g ref="char:EOLhyphen"/>ters. Our Anabaptists are not yet grown big enough to speak plain and therefore whisper in their preachments, <hi>that there are stronger truths to be r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed but we are not yet able to beare them.</hi> First our Lawes must be disgraced and accounted as remote from Christia<g ref="char:EOLhyphen"/>nity, no doubt because they are not all drawn out of the Gospell. Next our Parliament must be besp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttered, because they will not af<g ref="char:EOLhyphen"/>ter them to their mind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: then will some contrary <hi>Iustinian</hi> com<g ref="char:EOLhyphen"/>mend
+<pb n="10" facs="tcp:114106:15"/> himself to the people, by condemning our Statutes for tedi<g ref="char:EOLhyphen"/>ous, and extracting a quite-essentiall Law out of his chimericall revelations, which his Sectaries shall cry up for Gospell. Whoso<g ref="char:EOLhyphen"/>ever reads me, read but the lives of these Plebicolae, and after a moneth or two's observation you shall find them singing <hi>Absolons</hi> tune in every corner to the people; <hi>Your matters are good and right but there is no man deputed to heare you O that our Gospell might ones prevail in the land, that every man that hath any suit or cause might come unto us and we would do them Iustice.</hi> The whole bent of their wit all their turnings, and windings and fetches, tend but to this to possesse the people against the present Government for this they assume as many divers shapes as <hi>Protens,</hi> with the honest minded insinuating a certain misterious strictnesse of conversation with the ambitious, they deale by communications of honours, telling them what a sweet thing it is to be lookt upon as chief of a party, that its better being the head of a Cat then the taile of a Lion; But deale how you can with them they will amuse and hold you in suspence, but you shall never squeese out of them what they would have, nor indeed can they tell you being resolved to set up more or lesse sayle according as the wind shall blow. Marke this phrase in conclusion. <hi>To the nearest agreement with Christianity</hi> as if Politicall Lawes could not quite agree therewith, or we be o<g ref="char:EOLhyphen"/>ther then mungrell Christians while we retained any. This is pure Liberty.</p>
+            <p n="8">8. <hi>That the life of no person may be taken away under the testimonie of two witnesses to doe it upon the testimony of one you say is contrary to the law of God or common equity.</hi> This is a grievance you have learn't by revelation, for I find no such thing in our lawes: Indeed in some cases of main importance for the example, where many cir<g ref="char:EOLhyphen"/>cumstances compose a chaine of strong probabilities concurring with the deposition of a disinteressed eye witnesse I say in some such rare case, the law allowes punishment of a notorious offender; And what can you picke out of this b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne now? But you must be ap<g ref="char:EOLhyphen"/>plauded for the sole deliverers from all bondage? <hi>And that in an equitable way you will proportion punishment to offences so that no mans life be taken away, his body punished nor his estate forfeited but upon such weighty and considerable causes as justly deserve such pu<g ref="char:EOLhyphen"/>nishments.</hi>
+               <pb n="27" facs="tcp:114106:15"/> What your Synagogues account just we neither know nor care, but there is no man punished by the lawes in any of these res<g ref="char:EOLhyphen"/>pects without such cause as the whole Kingdome of <hi>England</hi> for many, many hundred yeares successively have deemed weighty. <hi>And that all prisoners may have a speedy tryall?</hi> Amen so be it, and may yours lead the dance; <hi>that they be neither starved, nor their fa<g ref="char:EOLhyphen"/>milies ruined by long and lingring imprisonment. And that imprison<g ref="char:EOLhyphen"/>ment be only used for safe custody not punishment.</hi> To a Gentleman complaining of the dearnes of Sacke, his companion merrily an<g ref="char:EOLhyphen"/>swers, If it were at a crowne the quart we should have fewer drun<g ref="char:EOLhyphen"/>kards: So say I, if prisons were yet more troublesome persons would be more orderly; you see as bad as they are, there are still enough found, that by their folly or obstinacy will venter the going thither. But now what if there arise crimes of contumacie, obstinate opini<g ref="char:EOLhyphen"/>atnesse, sedition, pertinacity in speaking evill of dignities, <hi>&amp;c.</hi> By the practise of all the Common-wealths that ever I read or heard of, Imprisonment hath been judged the most expedient punishment. 1. Because these crimes are of a diffussive nature and therefore con<g ref="char:EOLhyphen"/>finement the most proper remedy. 2. That solitarinesse might breed in their minds, reflex thoughts and so occasion repentance. 3. The indulgence of the magistrate could pitch upon no milder way, un<g ref="char:EOLhyphen"/>lesse he should proclaime impunity for all crimes not capitall; This being the ordinary gradation of such, that the first fault draws on Imprisonment, and sometimes fine, continuation in it. Banish<g ref="char:EOLhyphen"/>ment, surreptitions return from exile, or a third guilt of the same crime, death, What interest: you have in deprecating such penall proceedings, Let your own Consciences determine.</p>
+            <p>Another fooles bolt is shot against <hi>tythes &amp; al other inforced main<g ref="char:EOLhyphen"/>tenance and that nothing in place therof be imposed but that all Mini<g ref="char:EOLhyphen"/>sters may be payd only by those who voluntarily chuse them, and con<g ref="char:EOLhyphen"/>tract with them for their Labours.</hi> That is being interpreted, that excepting <hi>London</hi> and the adjacent. Counties, all Ministers shou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be expeld the Realme of <hi>England,</hi> and how many thinke you would be left in the Dominion of <hi>VVale<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> Truly considering the pretty mad age we live in; I wonder no such whimsy call Petition as this was ever tendred, Humbly shewing &amp;c. That whereas for divers yeares past there have beene sundry differences happened in and a<g ref="char:EOLhyphen"/>bout Religion to the detriment of the publike peace, They would
+<pb n="13" facs="tcp:114106:16"/> be pleased to order a suspension of all the Ministry for 12. months, till all contentions about Gods worship cease. How thinke you? would not hands enough be got thereto? I, and seales too: With<g ref="char:EOLhyphen"/>in a while people would be so far from disputing of God, that they would never thinke of him, your Petition hath the same sence, un<g ref="char:EOLhyphen"/>der other tearmes. The old Proverbe was Like Priest, like People and both were bad enough; But if it be inverted, Like People, Like Priest, we shall see famous <hi>contracts,</hi> and as <hi>worthy labours</hi> all performed in a blind alehouse. If tythes came so hardly, when e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>acted from them by authority, is it to be imagined, their contri<g ref="char:EOLhyphen"/>butions will flow in more liberally? The naked truth is this; If these shockes were out of the way <hi>Iohn</hi> of <hi>Leydens</hi> Prophets might happily reap the better harvest; for its probable they would plant their Gospell, with equall zeale, to the Spaniards in the Indies. We are told there is no ground <hi>for either under the Gospell.</hi> A sim<g ref="char:EOLhyphen"/>ple cavill: The whole Orthodox Church of God for these foureteen or fifteene hundred yeares, that is ever since any Churches were e<g ref="char:EOLhyphen"/>stablished, have acknowledged more then abundant ground for both; Now because these fanatick dreamers find it not co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched in so many Letters and Sylables they most simply yet most wickedly cry downe all legall maintenance and upon the same ground all our other lawes: For t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or any other maintenance were never ur<g ref="char:EOLhyphen"/>ged <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a prec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt of the Gospell, but as the law of <hi>England,</hi> and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t e seventh Petition they i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effect demand the abrogati<g ref="char:EOLhyphen"/>on <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> because not expresly contained in the Gospel there tea<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <hi>Christianity:</hi> Yet I need not grant them thus much for all son <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s acknowledging a perfect harmony in the word, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at t e old Testament is but <hi>Christ under the veile,</hi> and the new <hi>Moses unvetled</hi> its enough for us to practise what God thought fit to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyned in the one, till we find it positively or by strong inference (for we will not tye them so strictly to it as they doe us) ret<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted in the other. But this is another dreame of these Pseudo-Evangelists to oppose <hi>Moses</hi> and Christ, contending that the do<g ref="char:EOLhyphen"/>ctrine of faith delivered in the old and new Testament is divers in su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stance and that Christ in the new Testament proposed quite a new doctrine. Those that will be blind. Let them be blind still; But God forbid the whole Kingdom should therefore put out their eyes.</p>
+            <p n="10">
+               <pb n="12" facs="tcp:114106:16"/>10. <hi>That you will take some speedy and effectuall course, to relieve all such prisoners for debt as are altogether unable to pay, that they may not perish in prison, through the hard heartednesse of their Creditors,</hi> that the potion may go down the better, they annex this clause as a gobbet of sugar <hi>and that all such who have estates may be enforced to make payment and not shelter themselves in Prison to defraud their Creditors.</hi> This was wisely moved believe me; could you but set the doores open and proclaim Jubile to all prisoners you might happily gain no small store of Proselytes, your communion of goods would take fire here like Gunpowder; how quickly would such as have nothing left, cry halves with their neighbours,? but by your leave, this motion had been juster that <hi>some stricter punishment besides, prison may be inflicted upon all such desperate spendthrifts as will rather obstinately hazard the perishing in prison through their hard heartednesse to their Creditours then bate an ace of their vain expences wherewithall to discharge the debt.</hi> Sure while the worst of it is a re<g ref="char:EOLhyphen"/>treat to prison' where many live jollily and in riot they beare up as long as they may and then let posterity sink or swim. Now admit the worst what proportion is there between the ruine of one man who hath spent his dayes in vanity and folly and the whole families desolation? They erre who think punishments invented onely for the offenders; they are for example sake and to deter others. Are not many for crimes, which by reason of age or other impediments they are no more able to commit yet hang'd up for <hi>scarre Crowes?</hi> It's a most unjust custome of the <hi>Hollanders,</hi> when any man is at<g ref="char:EOLhyphen"/>tacht for murder, the people usually help him to escape with this <hi>boorish</hi> argument one man is killed already why should we lose another? most foolish pity yea most wicked! I my self have known a dozen murthers in one yeare by this meanes escape unpunished, all which might possibly have been prevented, had the f rst myrthe<g ref="char:EOLhyphen"/>rer been hanged. Those who pity not themselves who can pity? and in case of suretiship the usuall weaknesse of soft natures, or whatsoever else may merit regulation we leave it to those whom it concerns without imposing our sence upon the <hi>supreme Magi<g ref="char:EOLhyphen"/>strate.</hi>
+            </p>
+            <p n="11">11 In the next place here <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a great stir about Prison keepers, &amp; their under Officers, I will joyne with you herein, and wish they may be of
+<pb n="30" facs="tcp:114106:17"/> approved honesty, but rather wish it, then hope it, for I know not by what fate, they have never been better then they are; The contagion of the place, I thinke, insects them. But that you should now foist this i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to make up your Bakers dozen of grievances, is most, most ridiculous! What a happy condition were we in, if we lay under no greater bur<g ref="char:EOLhyphen"/>den then this of Knavish Prison-Keepers. It's a signe you have little to say, when you interrupt the State-proceedings with such petty mat<g ref="char:EOLhyphen"/>ters: Is not this a worthy businesse, thinke you, for the Parliaments cognizance, in the midst of the greatest difficulties, that ever Parlia<g ref="char:EOLhyphen"/>ment groaned under? This is with <hi>Rachel</hi> to say, Give me children or else I dye: Is the Parliament in stead of God? Sometime you re<g ref="char:EOLhyphen"/>vile them, here you deifie them. Can they make men honest? they may indeed displace knaves, but to hinder others from becomming as bad, is not their worke but Gods; Must the State be troubled with the pla<g ref="char:EOLhyphen"/>cing and displacing every under Officer? There is one misterious phrase lurkes here, <hi>That they may detaine no person or persons without lawfull warrant.</hi> Doe they otherwise? why doe not those so detained exhibit their complaints? for this is absolutely illegall, and the Prison<g ref="char:EOLhyphen"/>keeper would be soundly fined in any Court of <hi>England:</hi> So that 'tis frivolous here to trouble the supreme Court. Stay a little, for I pro<g ref="char:EOLhyphen"/>fesse, I can't pick sence enough out of this to fill a nut-shell, except you meane a Parliament Warrant is unlawfull; for who else hath commit<g ref="char:EOLhyphen"/>ted any? 'Tis even so, The House of Peers, or a Committee of Com<g ref="char:EOLhyphen"/>mons, hath sent some of your Knipperdollings to prison for their rude<g ref="char:EOLhyphen"/>nesse, and this makes you plead so hard for prisoners; All the rest of the Article was but a shooing-horne to draw on this clause. But I would wish you to be more modest, and not to harp too much upon this string▪ for verily, <hi>if you scratch your Superiours too hard, you may chance draw the smart upon your selves. Qui nimis emangit, sanguin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m elicit.</hi>
+            </p>
+            <p n="12">12 <hi>That you will provide some powerfull meanes to keep men, women and children from begging, and wickednesse, that this Nation may be no longer a shame to Christianity therein.</hi> I am confident no Nation under heaven hath better provided for the poore by lawes, then ours, nor any where, <hi>Holland</hi> excepted, are they better executed: name me any King<g ref="char:EOLhyphen"/>dome in Christendome where are fewer poore? besides that, many who seeme poore among us are but counterfeit, and beg out of wan<g ref="char:EOLhyphen"/>tonnesse,
+<pb n="31" facs="tcp:114106:17"/> out of a vagrant humour of Libertinisme, which me thinkes, you of all others should not gain-say. Neverthelesse I deny not but they might be better ordered, and would be in that Government which you so much withstand. It cannot be unknowne to you also, how the City for their parts, have been of late consulting hereabout; so that it ill becomes you <hi>Plebicolae,</hi> to act the <hi>Publicolae,</hi> and to commend your selves to the people for the first movers of that, which hath been above these twelve moneths, to my knowledge, <hi>in agetation,</hi> and that's a point beyond <hi>motion.</hi> But such is your arrogance, as that you would in<g ref="char:EOLhyphen"/>ferre to the people, that no body sees their grievances, but you, all the rest of the world is blind, <hi>and hardly can you afford the Parliament one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye as the Chinesi doe</hi> the Europeans. And whence (I pray) this ten<g ref="char:EOLhyphen"/>der regard of the poore? doe not we know that we are all Infidels in your esteeme? What care you for all the poore in the world, that are out of your congregations? Verily of all graces, you have least cause to brag of charity. Well, I say no more, but wish your heart may here have kept your tongue company; So shall I hope, you may in time come to be <hi>honest Elders,</hi> since you are already so <hi>stout Deacons.</hi>
+            </p>
+            <p n="13">13 The last is a Voluminous complaint, 1. <hi>That men call them by their names, of Sectaries, Schismaticks, factious, &amp;c.</hi> 'Tis well they are ashamed of the name, 'twere better they were ashamed of the thing; they disavow the titles, but not the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enents. Their argument runnes thus; All honest people, and such as would not conforme to the super<g ref="char:EOLhyphen"/>stitions under Episcopacy, the then present Government, were formerly most unjustly reproached as P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ritan Hereticks, Schismaticks, <hi>&amp;c.</hi> ther<g ref="char:EOLhyphen"/>fore neither are we truly so called so resisting the present Government, <hi>(Although all those stumbling block be now removed, and so the r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sons why you refuse to joyne with us yet invisible.)</hi> I will match their Arguments and then turne them both loose to stand or fall together. In the raigne of Queen <hi>Mary,</hi> divers Socinians suppressing their blas<g ref="char:EOLhyphen"/>phemous te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents, and only preaching against adoration of Images, Purgatory, Invocation of Saints, and other popish superstitions, are therefore taken for Protestants, and together with the true Pro<g ref="char:EOLhyphen"/>testants persecuted as Hereticks for opposing Papisticall Govern<g ref="char:EOLhyphen"/>ment. Afte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ward in the beginning of Q. <hi>Elizabeths</hi> raigne while the reformed discipline of the Church was yet unsetled, they begin to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep as from under the marke, and by degrees to appeare in their own like<g ref="char:EOLhyphen"/>nesse,
+<pb n="32" facs="tcp:114106:18"/> seducing many simple people, who had admired them for their zeale against the Papists. Now if these men apprehended for their horrid blasphemies against the Trinity, and other fundamentall Article of our Creed, should come and plead not guilty, because the best Christi<g ref="char:EOLhyphen"/>ans had beene branded with the name of Hereticks, as well as they, de<g ref="char:EOLhyphen"/>ny that they were Schismaticks, although they rent the Church, and obstructed the reformation, because the most godly had likwise refused to communicate with the Papists, I suppose you would thinke this infe<g ref="char:EOLhyphen"/>rence more worthy of laughter then an answer. We doe not say some of you are Hereticks, and others of you are Schismaticks, because so called; but we call you so, because you are so: Neither doe we terme you factious and seditious; only because you refuse to conforme to the present government, but for that you therefore refuse it, because injoy<g ref="char:EOLhyphen"/>ned by the Magistrate, out of a pure spirit of contradiction whereby you shake the foundations of all Authority. And therefore to your second branch of this Article, <hi>That you will not exclude any of approved fidelity from bearing office of trust in the Common-wealth for nonconfor<g ref="char:EOLhyphen"/>mity.</hi> I returne this answer: If any remain unsatisfied in any point of the present government, and be ready modestly to render a reason of his non-conformity, no doubt he shall be borne withall, and not ex<g ref="char:EOLhyphen"/>cluded therefore from any office of trust; for such a one will be con<g ref="char:EOLhyphen"/>tent to keep his opinions to himselfe. But we know that most of you value not that tolleration which allowes not the spreading of your Heresies, wherefore we have as little reason to trust you, as the Prote<g ref="char:EOLhyphen"/>stants in the former case to have trusted the Socinians, who might have pleaded as much fervour against the Papists, as you can against the Royallists. What are we the better for your milke, if now you kicke downe the paile? If you are good, and doe good, shall you not be accepted? and if you doe not good, sin lies at the doore, and punish<g ref="char:EOLhyphen"/>ment under the threshold. You say you are the Parliaments <hi>reall friend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but I am sure you shew little respect, and lesse friendship, when you tell them (to their face? Nay, to the face of the whole world) that <hi>their Promotion of Malignants is the chiefe cause of all our grievances.</hi> Lastly, that you may end like your selves, <hi>you tell the Parliament, they are going to leave this Nation in great thrald<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> both of body, mind, and estate</hi> (is not this to hunt counter to the title of right Honourable in the beginning), the sole prevention whereof consists in the granting
+<pb n="33" facs="tcp:114106:18"/> your <hi>humble desires, without which this Nation cannot be safe and happy.</hi> This is a very humble conclusion indeed! but something unlike a Pe<g ref="char:EOLhyphen"/>tition, to say you must have what you aske, and cannot bee without it. Beggars had not wont to be chusers till of late, can you tell better what's <hi>proper for the Parliament to grant,</hi> then they themselves? you pretend I confesse, <hi>the generall good of the Common-wealth,</hi> but in your lives and conversations you walke more like our Antipodes then our Country-men.</p>
+            <p>But I am weary of raking in this dunghill. He that would know what we may justly feare from this Gallimaufrey of Errours, let him reade <hi>Spanhemius</hi> Historicall narration of the German Sectaries, where in the beginning of the second Chapter, you shall meet with a discrip<g ref="char:EOLhyphen"/>tion of our present calamities: Those that are unacquainted with Hi<g ref="char:EOLhyphen"/>story are apt to thinke all Relations of such proceedings fabulous, so ridiculous and fantastick are many of their principles; But so much the more dangerous are the effects, because we are so prone to slight the causes. Marke but the progresse of Heresie in all ages, and you will easily discover whether we are going: <hi>for that which hath been, shall bee, and there is no new thing under the Sun.</hi> The pretences have al<g ref="char:EOLhyphen"/>alwayes been the same, of sweet communion, and encrease of know<g ref="char:EOLhyphen"/>ledge, the progresse the same, the casting of the Ordinances of Magi<g ref="char:EOLhyphen"/>stracie, and Ministery, the event the same, the trouble of the Church for a while, but ever in the end their owne confusion. The storme of Persecution was no sooner blowne over in the Primitive times, then those civill warres of Religion began to divide the Church, and so from time to time interchangeably continued till all setled in a grosse fog of ignorance under Popery: Againe, God no sooner stirred up <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> and his fellowes to reform<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then the Divell transforming him<g ref="char:EOLhyphen"/>selfe into an angell of light, stirred up the Anabaptists to retard and corrupt the reformation. And how? by exclaiming against it as im<g ref="char:EOLhyphen"/>perfect, condemning <hi>Luther</hi> for a flatterer of Princes, as if he had left the people under tyranny, and had not preached the full liberty of the Gospell; by which doctrine and cruell indulgence of the Magistrate in a short space they drew after them whole armies of licentious people, and lead them against their Princes. Which example puts me in mind of <hi>Appius,</hi> saying in <hi>Livis, Non misiriis, sed licentia tantum concîtum
+<pb n="34" facs="tcp:114106:19"/> turbarum: et lasci<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> mag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> plebem q<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> s<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>.</hi> All the fury is deri<g ref="char:EOLhyphen"/>ved from the heads of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se factions, the rest are mad by contagion. To wind up all in a Character of our P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titioners 1. The whole <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ab<g ref="char:EOLhyphen"/>ble of them, is a beggars cloak made up of divers pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches. A farre well built body to the eye but u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ease is, and you find an ill shapen car<g ref="char:EOLhyphen"/>kasse covered over with a thick crust of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rances. 2. Their voice is <hi>Jacobs,</hi> but their hands are <hi>Esa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s.</hi> 3. Their designe is to clog the Par<g ref="char:EOLhyphen"/>liament with endlesse intricacy of worke, that they may scape in the crowd unseene, till the Monster be full growne, and then looke it in the face who dare. Every good Patriot weigh well, and consider their actions! Trace them afar off, but tread no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their footst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps: Harken rather to <hi>Salomon, Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v.</hi> 22. <hi>v,</hi> 8. <hi>Pro.</hi> 24. <hi>v.</hi> 21. <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>move n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tient land-markes which thy Fathers have set, and againe. My son feare thou the Lord, and the King: and meddle not with them that are given to change.</hi> If God challenge the firstlings, give the Magistrate the se<g ref="char:EOLhyphen"/>cond fruits of thine Obedience.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114106:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
